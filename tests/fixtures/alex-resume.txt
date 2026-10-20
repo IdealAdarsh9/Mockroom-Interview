@@ -1,0 +1,26 @@
+Alex Rivera
+Senior Frontend Engineer | Austin, TX | alex.rivera@example.com
+
+SUMMARY
+Frontend engineer with 8 years of experience building accessible, high-performance web applications in React and TypeScript.
+
+EXPERIENCE
+Northwind Labs - Senior Frontend Engineer (2021 - Present)
+• Led the migration of a 400k-line checkout application from Redux to React Query, cutting average page load time by 38%.
+• Designed a component library used by 6 product teams, improving accessibility audit scores from 71 to 96.
+• Mentored 4 engineers and introduced contract testing with Playwright that reduced production regressions by 27%.
+
+Brightpath Software - Frontend Engineer (2017 - 2021)
+• Built a real-time dashboard in TypeScript and WebSockets serving 12,000 daily users.
+• Partnered with design and product to ship a redesigned onboarding flow that increased activation by 14%.
+• Investigated a memory leak in a charting library, isolated the root cause with heap profiling and shipped a fix in two days.
+
+SKILLS
+TypeScript, React, Next.js, Node.js, PostgreSQL, Playwright, Web accessibility, Performance profiling, CI/CD
+
+EDUCATION
+B.S. Computer Science, University of Texas at Austin (2013 - 2017)
+
+PROJECTS
+Open-source accessibility linter (2022 - Present)
+• Maintain a CLI that checks color contrast and keyboard navigation, with 1,800 GitHub stars and 40 contributors.

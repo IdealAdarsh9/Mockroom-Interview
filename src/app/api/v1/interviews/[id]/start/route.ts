@@ -1,0 +1,6 @@
+import { route } from "@/server/http";
+import { startInterview } from "@/server/interview/service";
+
+export const runtime = "nodejs";
+export const maxDuration = 60;
+export const POST = route<{ id: string }>({ roles: ["candidate"], limit: [60, 60_000] }, async ({ user, params }) => startInterview(user, params.id));
